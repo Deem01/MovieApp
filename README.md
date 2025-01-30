@@ -47,20 +47,8 @@ This app integrates with the Postman API to fetch movie data, including:
 - **Reviews API**: `https://api.airtable.com/v0/appsfcB6YESLj4NCN/reviews`
 
 
-## ⚠️ Known Issues
-
-- Some movies might have missing or incorrect images (e.g., broken poster URLs).
-- API responses may vary, so occasional failures in data loading might occur.
-
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-### 🙏 Acknowledgements
-
-- **Postman API**: The API used in this project is sourced from Postman, which offers a wide variety of public APIs for testing and development.
-- **SwiftUI**: Used as the primary framework for building the user interface.
-
-
